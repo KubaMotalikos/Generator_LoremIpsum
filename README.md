@@ -1,1 +1,3 @@
 # Generator_LoremIpsum
+
+## Spuštění
