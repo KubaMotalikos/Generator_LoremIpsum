@@ -2,7 +2,7 @@
 
 ## Spuštění/Stáhnutí
 Možnosti jak spustit LoremIpsum generator:
-1. Založte si novou složku, následně složku otevřete. Po otevření si spusťe nový terminal. Následne do terminalu napište git clobe <URL repitory>
+1. Založte si novou složku, následně složku otevřete. Po otevření si spusťe nový terminal. Následne do terminalu napište git clone <URL repitory>
 2. Stáhněte si soubor Impsumgenerator, vyberte složku a otevřete.
 3. Zkopírujte kod, otevřete VS code a do jakékoliv složky.py vložte zkopírovaný kod.
 ## Funkčnost
